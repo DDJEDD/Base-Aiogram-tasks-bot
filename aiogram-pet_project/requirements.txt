@@ -1,0 +1,4 @@
+aiogram
+dotenv
+sqlalchemy
+alembic
